@@ -20,7 +20,7 @@ Fonte de Dados:
 ---
 
 <p align=center>
-O conjunto de dados utilizado neste projeto foi coletado a partir do seguinte <a href="https://www.kaggle.com/datasets/devrimtuner/top-100-video-games"><strong>LINK</strong></a> detalhadas sobre os videogames mais vendidos. As fontes de onde os dados foram adquiridos estão documentadas e disponíveis para referência.
+O conjunto de dados utilizado neste projeto foi coletado a partir do seguinte <a target="__blank"href="https://www.kaggle.com/datasets/devrimtuner/top-100-video-games"><strong>LINK</strong></a> detalhadas sobre os videogames mais vendidos. As fontes de onde os dados foram adquiridos estão documentadas e disponíveis para referência.
 </p>
 <br>
 
